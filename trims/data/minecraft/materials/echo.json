@@ -1,0 +1,9 @@
+{
+  "asset_name": "echo",
+  "item_model_index": 0.0,
+  "incompatible_armor_materials": [],
+  "description": {
+    "color": "#4D4D63",
+    "translate": "trim_material.minecraft.echo"
+  }
+}
